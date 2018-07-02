@@ -1,0 +1,2 @@
+# Wumpus
+ a simple game
